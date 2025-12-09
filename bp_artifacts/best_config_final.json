@@ -1,0 +1,20 @@
+{
+  "arch": [
+    64,
+    32
+  ],
+  "optimizer": "Adam",
+  "lr": 0.001,
+  "wd": 1e-05,
+  "scheduler": "CosineAnnealingLR(T_max=200)",
+  "split": "80/20",
+  "batch_size": 64,
+  "early_stopping_patience": 200,
+  "valid_MSE_norm": 4.0393714698439e-05,
+  "valid_metrics": {
+    "MSE": 0.8475714921951294,
+    "MAE": 0.7060660123825073,
+    "MAPE(%)": 4.81525993347168,
+    "R2": 0.2992987632751465
+  }
+}

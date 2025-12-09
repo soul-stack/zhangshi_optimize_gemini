@@ -1,0 +1,92 @@
+{
+  "A": {
+    "furnaces": {
+      "N2": {
+        "enabled": true,
+        "temperature": 585.0,
+        "air_flow": 7.0,
+        "salt": 3.0
+      },
+      "N3": {
+        "enabled": true,
+        "temperature": 580.0,
+        "air_flow": 7.0,
+        "salt": 2.0
+      },
+      "N4": {
+        "enabled": true,
+        "temperature": 580.0,
+        "air_flow": 7.0,
+        "salt": 2.0
+      },
+      "N5": {
+        "enabled": true,
+        "temperature": 580.0,
+        "air_flow": 7.0,
+        "salt": 3.0
+      }
+    },
+    "time_adjust": 0.0,
+    "time_total": 0.0
+  },
+  "B": {
+    "furnaces": {
+      "N2": {
+        "enabled": true,
+        "temperature": null,
+        "air_flow": null,
+        "salt": null
+      },
+      "N3": {
+        "enabled": true,
+        "temperature": null,
+        "air_flow": null,
+        "salt": null
+      },
+      "N4": {
+        "enabled": true,
+        "temperature": null,
+        "air_flow": null,
+        "salt": null
+      },
+      "N5": {
+        "enabled": true,
+        "temperature": null,
+        "air_flow": null,
+        "salt": null
+      }
+    },
+    "time_adjust": 0.0,
+    "time_total": 0.0
+  },
+  "C": {
+    "furnaces": {
+      "N2": {
+        "enabled": true,
+        "temperature": null,
+        "air_flow": null,
+        "salt": null
+      },
+      "N3": {
+        "enabled": true,
+        "temperature": null,
+        "air_flow": null,
+        "salt": null
+      },
+      "N4": {
+        "enabled": true,
+        "temperature": null,
+        "air_flow": null,
+        "salt": null
+      },
+      "N5": {
+        "enabled": true,
+        "temperature": null,
+        "air_flow": null,
+        "salt": null
+      }
+    },
+    "time_adjust": 0.0,
+    "time_total": 0.0
+  }
+}

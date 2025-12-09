@@ -1,0 +1,19 @@
+{
+  "product_to_group": {
+    "A": "A",
+    "B": "BCD",
+    "C": "BCD",
+    "D": "BCD",
+    "J": "J",
+    "M": "M",
+    "O": "O"
+  },
+  "available_groups": [
+    "A",
+    "BCD",
+    "J",
+    "M",
+    "O"
+  ],
+  "description": "产品类型 -> 模型组映射 (基于 xunlian1208)"
+}
