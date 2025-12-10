@@ -1,0 +1,31 @@
+{
+  "group": "M",
+  "included_types": [
+    "M"
+  ],
+  "sample_counts": {
+    "total": 411,
+    "train": 328,
+    "val": 83
+  },
+  "overall_metrics": {
+    "train": {
+      "R2": 0.7831,
+      "MSE": 0.2301,
+      "MAE": 0.3582
+    },
+    "validation": {
+      "R2": 0.1502,
+      "MSE": 1.0066,
+      "MAE": 0.8022
+    }
+  },
+  "validation_breakdown_by_type": {
+    "M": {
+      "R2": 0.1502,
+      "MSE": 1.0066,
+      "MAE": 0.8022
+    }
+  },
+  "fit_analysis": "拟合较差 (Unreasonable - Poor Fit) | 存在过拟合 (Overfitting detected)"
+}

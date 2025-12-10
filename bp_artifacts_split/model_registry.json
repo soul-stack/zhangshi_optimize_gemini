@@ -1,0 +1,17 @@
+{
+  "product_to_group": {
+    "A": "A",
+    "B": "BCD",
+    "C": "BCD",
+    "D": "BCD",
+    "M": "M",
+    "O": "O"
+  },
+  "available_groups": [
+    "A",
+    "BCD",
+    "M",
+    "O"
+  ],
+  "description": "产品类型 -> 模型组映射 (Split Version)"
+}

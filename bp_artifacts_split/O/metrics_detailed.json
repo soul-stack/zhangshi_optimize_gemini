@@ -1,0 +1,31 @@
+{
+  "group": "O",
+  "included_types": [
+    "O"
+  ],
+  "sample_counts": {
+    "total": 560,
+    "train": 448,
+    "val": 112
+  },
+  "overall_metrics": {
+    "train": {
+      "R2": 0.372,
+      "MSE": 26.1282,
+      "MAE": 1.8895
+    },
+    "validation": {
+      "R2": -4.5329,
+      "MSE": 4.2287,
+      "MAE": 1.5613
+    }
+  },
+  "validation_breakdown_by_type": {
+    "O": {
+      "R2": -4.5329,
+      "MSE": 4.2287,
+      "MAE": 1.5613
+    }
+  },
+  "fit_analysis": "拟合较差 (Unreasonable - Poor Fit) | 泛化能力正常 (Normal Generalization)"
+}
