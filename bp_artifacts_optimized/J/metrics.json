@@ -1,0 +1,28 @@
+{
+  "group": "J",
+  "metrics": {
+    "train": {
+      "R2": 0.061,
+      "MSE": 0.7205,
+      "MAE": 0.533
+    },
+    "val": {
+      "R2": -1.6561,
+      "MSE": 0.8913,
+      "MAE": 0.7256
+    }
+  },
+  "best_params": {
+    "hidden": [
+      32
+    ],
+    "lr": 0.01,
+    "dropout": 0.0,
+    "wd": 0.0001
+  },
+  "fit_status": "拟合较差, 可能欠拟合 (Underfitting)",
+  "samples": {
+    "train_aug": 24,
+    "val": 3
+  }
+}

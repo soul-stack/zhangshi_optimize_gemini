@@ -1,0 +1,29 @@
+{
+  "group": "A",
+  "metrics": {
+    "train": {
+      "R2": 0.2991,
+      "MSE": 0.7863,
+      "MAE": 0.6889
+    },
+    "val": {
+      "R2": 0.0425,
+      "MSE": 1.7572,
+      "MAE": 1.0403
+    }
+  },
+  "best_params": {
+    "hidden": [
+      64,
+      32
+    ],
+    "lr": 0.001,
+    "dropout": 0.1,
+    "wd": 0.001
+  },
+  "fit_status": "拟合较差, 可能欠拟合 (Underfitting)",
+  "samples": {
+    "train_aug": 162,
+    "val": 14
+  }
+}

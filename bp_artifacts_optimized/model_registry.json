@@ -1,0 +1,19 @@
+{
+  "available_groups": [
+    "A",
+    "BCD",
+    "J",
+    "M",
+    "O"
+  ],
+  "product_to_group": {
+    "A": "A",
+    "B": "BCD",
+    "C": "BCD",
+    "D": "BCD",
+    "J": "J",
+    "M": "M",
+    "O": "O"
+  },
+  "description": "Optimized BP Models with Outlier Removal & Grid Search"
+}
